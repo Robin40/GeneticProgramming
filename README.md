@@ -4,7 +4,7 @@
 
 ```smalltalk
 Metacello new 
-    baseline: 'BaselineOfGeneticProgramming'; 
-    repository: 'github://bergel/GeneticProgramming'; 
+    baseline: 'GeneticProgramming'; 
+    repository: 'github://Robin40/GeneticProgramming'; 
     load.
 ```
